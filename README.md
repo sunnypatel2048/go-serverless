@@ -1,4 +1,4 @@
-# GO Serverless Project
+# Go Serverless Project
 
 This is a complete serverless Golang project. It is a basic CRUD API to store and retrive user data i.e. email , first name and last name. This project was built and deployed using AWS API Gateway, Lambda and DynamoDB.
 
